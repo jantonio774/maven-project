@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * @param nombre de la persona
+   * @param operand1 - first numeric value for the ADD operation
    * @return greeeting string
    */
   public final String greet(final String someone) {
